@@ -1,0 +1,116 @@
+.elementor-1156 .elementor-element.elementor-element-24d488d2 .wpr-pricing-table {
+    border-color: #fff3cc;
+    box-shadow: 0px 0px 14px 0px rgba(87, 45, 3, 0.11);
+    transition-duration: 0.1s;
+    padding: 0px 0px 0px 0px;
+    border-style: none;
+}
+.wpr-pricing-table {
+    position: relative;
+}
+.elementor *, .elementor :after, .elementor :before {
+    box-sizing: border-box;
+}
+.elementor-1156 .elementor-element.elementor-element-24d488d2 .wpr-pricing-table-heading {
+    padding: 50px 20px 20px 20px;
+}
+.wpr-pricing-table-heading {
+    text-align: center;
+}
+.wpr-pricing-table-headding-inner {
+    display: inline-block;
+}
+.elementor-1156 .elementor-element.elementor-element-24d488d2 .wpr-pricing-table-title {
+    color: #fff3cc;
+    font-family: "Roboto", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+    margin: 0 0 0px;
+}
+.elementor-widget-wpr-pricing-table .wpr-pricing-table-title-wrap .wpr-pricing-table-title {
+    font-size: 26px;
+    font-weight: 600;
+    color: #fff3cc;
+}
+.elementor-1156 .elementor-element.elementor-element-24d488d2 .wpr-pricing-table-price {
+    padding: 3px 20px 35px 20px;
+    color: #fff3cc;
+    font-family: "Roboto", Sans-serif;
+    font-size: 63px;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+}
+.wpr-pricing-table-price {
+    text-align: center;
+    font-size: 65px;
+    font-weight: 500;
+    line-height: 0.9;
+}
+.wpr-pricing-table-price-inner {
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.elementor-1156 .elementor-element.elementor-element-24d488d2 .wpr-pricing-table-price {
+     padding: 3px 20px 35px 20px;
+     color: #fff3cc;
+     font-family: "Roboto", Sans-serif;
+     font-size: 63px;
+     font-weight: 600;
+     letter-spacing: 0.4px;
+ }
+.wpr-pricing-table-price {
+    text-align: center;
+    font-size: 65px;
+    font-weight: 500;
+    line-height: 0.9;
+}
+.elementor-1156 .elementor-element.elementor-element-458ce2f .wpr-pricing-table-old-price {
+    color: #fff3cc;
+    font-size: 17px;
+    -webkit-align-self: center;
+    align-self: center;
+}
+
+.wpr-pricing-table-old-price {
+    text-decoration: line-through !important;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.pricing-table-currency, .wpr-pricing-table-old-price, .wpr-pricing-table-preiod {
+    line-height: 1;
+}
+.shahbaz514_silver{
+    border-radius: 10px!important;
+    background-color: #341514;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.shahbaz514_gold{
+    border-radius: 10px!important;
+    background-color: gold;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.shahbaz514_diamond{
+    border-radius: 10px!important;
+    background-color: dimgray;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.shahbaz_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.shahbaz_ul li{
+    line-height: 2;
+    vertical-align: middle;
+}
